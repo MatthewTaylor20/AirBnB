@@ -1,24 +1,8 @@
-# README
+# AirBnB Clone (still in progress)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+- Once signed in, additional options show up in the navigation bar at the top. 
 
-* Ruby version
 
-* System dependencies
+https://user-images.githubusercontent.com/99748662/219495027-f4a0fee6-d2f2-48fa-8c5e-81c8d5dbe2e7.mov
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
